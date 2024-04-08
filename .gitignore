@@ -377,15 +377,3 @@ FodyWeavers.xsd
 DbScaffold/
 *.lock
 
-/src/Docker/BE/rabbitmq/data
-/src/BE/Services/Authentication/MB.Authentication.API/appsettings.json
-/src/BE/Services/Invest/MB.Invest.API/appsettings.json
-/src/BE/Services/Media/MB.Media.API/appsettings.json
-/src/BE/Services/Core/MB.Core.API/appsettings.json
-/src/BE/Services/Payment/MB.Payment.API/appsettings.json
-/src/BE/Services/Authentication/MB.Authentication.API/secrets.json
-/src/BE/Services/Invest/MB.Invest.API/secrets.json
-/src/BE/Services/Media/MB.Media.API/secrets.json
-/src/BE/Services/Core/MB.Core.API/secrets.json
-/src/BE/Services/Payment/MB.Payment.API/secrets.json
-/src/Docker/BE/secrets/DataProtection-Keys
