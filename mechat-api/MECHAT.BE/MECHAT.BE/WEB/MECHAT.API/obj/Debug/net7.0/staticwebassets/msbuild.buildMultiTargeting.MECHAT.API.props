@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MECHAT.API.props" />
+</Project>
