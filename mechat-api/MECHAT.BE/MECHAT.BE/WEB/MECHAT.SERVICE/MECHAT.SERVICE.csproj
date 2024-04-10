@@ -1,9 +1,22 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AuthModule\Abstracts\" />
+    <Folder Include="AuthModule\Dtos\UserDto\" />
+    <Folder Include="AuthModule\Dtos\RoleDto\" />
+    <Folder Include="AuthModule\Dtos\PermissionDto\" />
+    <Folder Include="AuthModule\Implements\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BASE\SERVICE.BASE\MECHAT.ServiceBase\MECHAT.ServiceBase.csproj" />
+    <ProjectReference Include="..\MECHAT.INFRASTRUCTURE\MECHAT.INFRASTRUCTURE.csproj" />
+  </ItemGroup>
 
 </Project>

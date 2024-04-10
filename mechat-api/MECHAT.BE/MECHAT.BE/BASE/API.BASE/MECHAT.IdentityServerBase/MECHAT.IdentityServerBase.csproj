@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\MECHAT.Utils\MECHAT.Utils.csproj" />
+  </ItemGroup>
+
 </Project>

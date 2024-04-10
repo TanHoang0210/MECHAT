@@ -1,6 +1,6 @@
 ﻿namespace MECHAT.Utils
 {
-    public class Class1
+    public class UserClaimTypes
     {
 
     }

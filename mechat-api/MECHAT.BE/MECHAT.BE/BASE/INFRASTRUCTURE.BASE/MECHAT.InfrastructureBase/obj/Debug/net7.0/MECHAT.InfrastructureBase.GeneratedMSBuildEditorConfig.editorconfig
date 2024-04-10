@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MECHAT.InfrastructureBase
-build_property.ProjectDir = d:\MeChat\mechat-api\MECHAT.BE\MECHAT.BE\BASE\INFRASTRUCTURE.BASE\MECHAT.InfrastructureBase\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\MeChat\mechat-api\MECHAT.BE\MECHAT.BE\BASE\INFRASTRUCTURE.BASE\MECHAT.InfrastructureBase\

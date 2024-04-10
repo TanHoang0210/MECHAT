@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "MECHAT.DomainBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MECHAT.DomainBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MECHAT.DomainBase.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MECHAT.DomainBase/1.0.0": {
+      "type": "project",
+      "path": "../../DOMAIN.BASE/MECHAT.DomainBase/MECHAT.DomainBase.csproj",
+      "msbuildProject": "../../DOMAIN.BASE/MECHAT.DomainBase/MECHAT.DomainBase.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "MECHAT.DomainBase >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tanhn\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\DOMAIN.BASE\\MECHAT.DomainBase\\MECHAT.DomainBase.csproj": {
+              "projectPath": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\DOMAIN.BASE\\MECHAT.DomainBase\\MECHAT.DomainBase.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\WEB\MECHAT.INFRASTRUCTURE\MECHAT.INFRASTRUCTURE.csproj" />
+    <ProjectReference Include="..\..\..\WEB\MECHAT.SERVICE\MECHAT.SERVICE.csproj" />
+    <ProjectReference Include="..\..\MECHAT.Utils\MECHAT.Utils.csproj" />
+  </ItemGroup>
+
 </Project>

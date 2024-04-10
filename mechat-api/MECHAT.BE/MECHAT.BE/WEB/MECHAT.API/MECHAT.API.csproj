@@ -11,4 +11,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\BASE\API.BASE\MECHAT.IdentityServerBase\MECHAT.IdentityServerBase.csproj" />
+    <ProjectReference Include="..\..\BASE\API.BASE\MECHAT.WebAPIBase\MECHAT.WebAPIBase.csproj" />
+    <ProjectReference Include="..\..\BASE\MECHAT.Utils\MECHAT.Utils.csproj" />
+    <ProjectReference Include="..\MECHAT.DOMAIN\MECHAT.DOMAIN.csproj" />
+    <ProjectReference Include="..\MECHAT.SERVICE\MECHAT.SERVICE.csproj" />
+  </ItemGroup>
+
 </Project>

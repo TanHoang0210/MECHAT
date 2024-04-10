@@ -6,4 +6,26 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Net\" />
+    <Folder Include="Localization\" />
+    <Folder Include="Linq\" />
+    <Folder Include="Hangfire\" />
+    <Folder Include="CustomException\" />
+    <Folder Include="ConstantVariable\" />
+    <Folder Include="RolePermission\" />
+    <Folder Include="Security\" />
+    <Folder Include="Validation\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire" Version="1.8.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.5.1" />
+    <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
+    <PackageReference Include="QRCoder-ImageSharp" Version="0.10.0" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.3" />
+  </ItemGroup>
+
 </Project>
