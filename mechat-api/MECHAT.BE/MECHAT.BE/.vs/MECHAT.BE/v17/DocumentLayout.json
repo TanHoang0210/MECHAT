@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A9191BA-6884-4927-B164-2CADD1A31C3C}|BASE\\API.BASE\\MECHAT.IdentityServerBase\\MECHAT.IdentityServerBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\api.base\\mechat.identityserverbase\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9191BA-6884-4927-B164-2CADD1A31C3C}|BASE\\API.BASE\\MECHAT.IdentityServerBase\\MECHAT.IdentityServerBase.csproj|solutionrelative:base\\api.base\\mechat.identityserverbase\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F17CD81-6015-4C97-BA84-0DECD586913B}|WEB\\MECHAT.API\\MECHAT.API.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F17CD81-6015-4C97-BA84-0DECD586913B}|WEB\\MECHAT.API\\MECHAT.API.csproj|solutionrelative:web\\mechat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\validationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\validationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\stringrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\stringrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\ivalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\ivalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\integerrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\integerrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\filemaxlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\filemaxlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\fileextentionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\fileextentionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\customrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\customrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\validations\\custommaxlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\validations\\custommaxlengthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\service.base\\mechat.servicebase\\common\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\common\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.infrastructure\\persistence\\mechatdbcontexttransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|solutionrelative:web\\mechat.infrastructure\\persistence\\mechatdbcontexttransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.infrastructure\\persistence\\mechatdbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|solutionrelative:web\\mechat.infrastructure\\persistence\\mechatdbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.infrastructure\\persistence\\mechatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|solutionrelative:web\\mechat.infrastructure\\persistence\\mechatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DC88096-F86E-46BD-8766-5B002FE4C7B9}|BASE\\DOMAIN.BASE\\MECHAT.DomainBase\\MECHAT.DomainBase.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\domain.base\\mechat.domainbase\\mechat.domainbase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -19,24 +71,24 @@
       "RelativeMoniker": "D:0:0:{B71707E1-036A-46C7-862F-54D34983E6DC}|BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj|solutionrelative:base\\service.base\\mechat.servicebase\\mechat.servicebase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14ABB7FA-4F48-427B-BBDD-0E7FA780C668}|BASE\\MECHAT.Utils\\MECHAT.Utils.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\base\\mechat.utils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14ABB7FA-4F48-427B-BBDD-0E7FA780C668}|BASE\\MECHAT.Utils\\MECHAT.Utils.csproj|solutionrelative:base\\mechat.utils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F17CD81-6015-4C97-BA84-0DECD586913B}|WEB\\MECHAT.API\\MECHAT.API.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F17CD81-6015-4C97-BA84-0DECD586913B}|WEB\\MECHAT.API\\MECHAT.API.csproj|solutionrelative:web\\mechat.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46B7E78-412B-4EA4-B5BA-F0896CB11E22}|WEB\\MECHAT.DOMAIN\\MECHAT.DOMAIN.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46B7E78-412B-4EA4-B5BA-F0896CB11E22}|WEB\\MECHAT.DOMAIN\\MECHAT.DOMAIN.csproj|solutionrelative:web\\mechat.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\MECHAT.Utils\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BASE\\MECHAT.Utils\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{099E37FD-4079-4508-9942-B3DB39BF8CA3}|WEB\\MECHAT.INFRASTRUCTURE\\MECHAT.INFRASTRUCTURE.csproj|solutionrelative:web\\mechat.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.DOMAIN\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEB\\MECHAT.DOMAIN\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF3EB4F-6D9D-4F8E-8BBF-DE5F7669F9A2}|WEB\\MECHAT.SERVICE\\MECHAT.SERVICE.csproj|d:\\mechat\\mechat-api\\mechat.be\\mechat.be\\web\\mechat.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF3EB4F-6D9D-4F8E-8BBF-DE5F7669F9A2}|WEB\\MECHAT.SERVICE\\MECHAT.SERVICE.csproj|solutionrelative:web\\mechat.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEB\\MECHAT.INFRASTRUCTURE\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.SERVICE\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEB\\MECHAT.SERVICE\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,71 +127,221 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
-              "RelativeDocumentMoniker": "BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
-              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
-              "RelativeToolTip": "BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.API\\Program.cs",
+              "RelativeDocumentMoniker": "WEB\\MECHAT.API\\Program.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.API\\Program.cs",
+              "RelativeToolTip": "WEB\\MECHAT.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:52:52.037Z",
+              "WhenOpened": "2024-06-10T02:53:33.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MECHAT.DomainBase",
+              "Title": "ValidationExtensions.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\ValidationExtensions.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\ValidationExtensions.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\ValidationExtensions.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\ValidationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringRangeAttribute.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\StringRangeAttribute.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\StringRangeAttribute.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\StringRangeAttribute.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\StringRangeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:04.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IValidationAttribute.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IValidationAttribute.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IValidationAttribute.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IValidationAttribute.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:04.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntegerRangeAttribute.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IntegerRangeAttribute.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IntegerRangeAttribute.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IntegerRangeAttribute.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\IntegerRangeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:03.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileMaxLengthAttribute.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileMaxLengthAttribute.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileMaxLengthAttribute.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileMaxLengthAttribute.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileMaxLengthAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:02.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileExtentionAttribute.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileExtentionAttribute.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileExtentionAttribute.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileExtentionAttribute.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\FileExtentionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:02.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomRequiredAttribute.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomRequiredAttribute.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomRequiredAttribute.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomRequiredAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:01.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomMaxLengthAttribute.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomMaxLengthAttribute.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomMaxLengthAttribute.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomMaxLengthAttribute.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\Validations\\CustomMaxLengthAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:52:00.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonUtils.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\CommonUtils.cs",
+              "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\CommonUtils.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\CommonUtils.cs",
+              "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\Common\\CommonUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:51:57.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeChatDbContextTransient.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextTransient.cs",
+              "RelativeDocumentMoniker": "WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextTransient.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextTransient.cs",
+              "RelativeToolTip": "WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextTransient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:51:43.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeChatDbContextExtension.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextExtension.cs",
+              "RelativeDocumentMoniker": "WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextExtension.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextExtension.cs",
+              "RelativeToolTip": "WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContextExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:51:42.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeChatDbContext.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContext.cs",
+              "RelativeDocumentMoniker": "WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContext.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContext.cs",
+              "RelativeToolTip": "WEB\\MECHAT.INFRASTRUCTURE\\Persistence\\MeChatDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:51:40.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
+              "RelativeDocumentMoniker": "BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
+              "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
+              "RelativeToolTip": "BASE\\API.BASE\\MECHAT.IdentityServerBase\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:52:52.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MECHAT.DomainBase.csproj",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\DOMAIN.BASE\\MECHAT.DomainBase\\MECHAT.DomainBase.csproj",
               "RelativeDocumentMoniker": "BASE\\DOMAIN.BASE\\MECHAT.DomainBase\\MECHAT.DomainBase.csproj",
               "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\DOMAIN.BASE\\MECHAT.DomainBase\\MECHAT.DomainBase.csproj",
               "RelativeToolTip": "BASE\\DOMAIN.BASE\\MECHAT.DomainBase\\MECHAT.DomainBase.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T03:52:48.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:48.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MECHAT.InfrastructureBase",
+              "DocumentIndex": 15,
+              "Title": "MECHAT.InfrastructureBase.csproj",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\INFRASTRUCTURE.BASE\\MECHAT.InfrastructureBase\\MECHAT.InfrastructureBase.csproj",
               "RelativeDocumentMoniker": "BASE\\INFRASTRUCTURE.BASE\\MECHAT.InfrastructureBase\\MECHAT.InfrastructureBase.csproj",
               "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\INFRASTRUCTURE.BASE\\MECHAT.InfrastructureBase\\MECHAT.InfrastructureBase.csproj",
               "RelativeToolTip": "BASE\\INFRASTRUCTURE.BASE\\MECHAT.InfrastructureBase\\MECHAT.InfrastructureBase.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T03:52:46.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:46.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MECHAT.ServiceBase",
+              "DocumentIndex": 16,
+              "Title": "MECHAT.ServiceBase.csproj",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj",
               "RelativeDocumentMoniker": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj",
               "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj",
               "RelativeToolTip": "BASE\\SERVICE.BASE\\MECHAT.ServiceBase\\MECHAT.ServiceBase.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T03:52:44.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:44.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\MECHAT.Utils\\Class1.cs",
               "RelativeDocumentMoniker": "BASE\\MECHAT.Utils\\Class1.cs",
               "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\BASE\\MECHAT.Utils\\Class1.cs",
               "RelativeToolTip": "BASE\\MECHAT.Utils\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:52:41.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:41.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WEB\\MECHAT.API\\WeatherForecast.cs",
@@ -147,47 +349,40 @@
               "RelativeToolTip": "WEB\\MECHAT.API\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:52:39.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:39.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.DOMAIN\\Class1.cs",
               "RelativeDocumentMoniker": "WEB\\MECHAT.DOMAIN\\Class1.cs",
               "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.DOMAIN\\Class1.cs",
               "RelativeToolTip": "WEB\\MECHAT.DOMAIN\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:52:36.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:36.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Class1.cs",
               "RelativeDocumentMoniker": "WEB\\MECHAT.INFRASTRUCTURE\\Class1.cs",
               "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.INFRASTRUCTURE\\Class1.cs",
               "RelativeToolTip": "WEB\\MECHAT.INFRASTRUCTURE\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:52:34.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:34.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.SERVICE\\Class1.cs",
               "RelativeDocumentMoniker": "WEB\\MECHAT.SERVICE\\Class1.cs",
               "ToolTip": "D:\\MeChat\\mechat-api\\MECHAT.BE\\MECHAT.BE\\WEB\\MECHAT.SERVICE\\Class1.cs",
               "RelativeToolTip": "WEB\\MECHAT.SERVICE\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:52:31.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T03:52:31.525Z"
             }
           ]
         }

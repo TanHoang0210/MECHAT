@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MECHAT.WebAPIBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8667602e670b44d04cc2b18a9e70537fa656393f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MECHAT.WebAPIBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MECHAT.WebAPIBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
